@@ -1,6 +1,6 @@
 name: first
 
-on: [push, pull, release]
+on: [push, pull_request, release]
 
 jobs: 
   job1:
